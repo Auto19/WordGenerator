@@ -26,10 +26,3 @@ function createWord(length) {
     }
     return word;
 }
-
-/*
-function createWord() {
-    var word = "";
-    return word;
-}
-*/
