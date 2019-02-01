@@ -4,7 +4,7 @@ A program that generates words
 import it into your html document with:
 
 <script src="https://raw.githubusercontent.com/Auto19/WordGenerator/master/WordsAPI.js"></script>
-
+<br>
 
 The API currently has 1 function(s):
 
