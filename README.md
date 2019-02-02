@@ -1,7 +1,7 @@
 # WordGenerator
 A program that generates words
 
-import it into your html document with:
+Download it then import it into your html document with a variation of this:
 
 <script src="WordsAPI.js"></script>
 <br><br>
